@@ -11,8 +11,7 @@ public class PlayerController : MonoBehaviour
     public float deceleration = 3f;
     public float turnSpeed = 100f;
 
-    // --- Private internal variables ---
-    private Rigidbody2D _rb;       // Reference to the physics component
+    public Rigidbody2D _rb;       // Reference to the physics component
     private float _moveInput;      // Stores W/S or Up/Down input (-1 to 1)
     private float _turnInput;      // Stores A/D or Left/Right input (-1 to 1)
     private float _currentSpeed = 0f; // The actual speed the vehicle is moving
