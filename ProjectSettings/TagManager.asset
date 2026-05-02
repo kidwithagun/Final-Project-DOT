@@ -6,7 +6,9 @@ TagManager:
   tags:
   - TalkZone
   - Exit
-  - Obstacle
+  - Ground
+  - Physical Objects
+  - Cars
   layers:
   - Default
   - TransparentFX
