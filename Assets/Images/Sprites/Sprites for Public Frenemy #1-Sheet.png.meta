@@ -1,0 +1,2028 @@
+fileFormatVersion: 2
+guid: fc7c241eaf3f7914693b5ef6c45b81bc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 627
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3530be33a6ac082419221c63d18979e9
+      internalID: -1769074923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 627
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f2e689d69ac74409e3c51b36f35b68
+      internalID: -668562060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 627
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe090901b2df3741831e21bb24627f6
+      internalID: -1800162202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 627
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d52788058c5d3746b263d1176413115
+      internalID: 2042350545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 627
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a1562896ac7a74fa1d7c194dfa5a4b
+      internalID: -1674514307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 627
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33150bdb53b2382439b99c20aa845cc3
+      internalID: 527223615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 660
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25eab3bcda684bd4680284dabeea52ff
+      internalID: 2051403858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 636
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4eff4b48f3083248807e62fd26c83b8
+      internalID: -872726517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 558
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9cb90908cc42842a1861d49f05a577
+      internalID: 1359862053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 549
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0f3daf54faf984fa84b5068b9423d0
+      internalID: 1098623127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 549
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aaf8d24afb070c4dabd8035a7857a73
+      internalID: -1547710015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 549
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958faf46a8316e944a8ed049f2dd5090
+      internalID: -593759084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 549
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5aedc6d3a8062a48b1a545adee5d9b0
+      internalID: -1473450097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 549
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f43ccb1fb793b141a3c408f2204c89c
+      internalID: -1456630819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 549
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6304cc71aaa7754dad792bc05968198
+      internalID: -2133252837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 540
+        width: 27
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8fc0aa02f39b44595a310dc72fc417
+      internalID: -1668326466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 540
+        width: 27
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222db09e0c74bc4448d7c94cb886e0fc
+      internalID: 280061365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 471
+        width: 27
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bc65b9f200feb4db4581de4acd9f1a
+      internalID: 2057577900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 471
+        width: 27
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c762d3a74c6b84ab6e36ab5cd60d1d
+      internalID: 1841659454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 471
+        width: 27
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f55bcb339450146a8b6113483f1621
+      internalID: 739932842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 471
+        width: 27
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91377302a41c734e9fcad63de8d2ea3
+      internalID: -1905274528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 486
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11471f95717959548b16d836fdfff99c
+      internalID: -1695591187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 486
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f15e9efc1f4d3479ee612e16d5d859
+      internalID: 826433165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 486
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f3587e6122adc4ebbbb23953c8f59e
+      internalID: 343904262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 399
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1fb75a890c67b4d99c8e5dd225852c
+      internalID: -688601068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 399
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9688d925f55d884794eff6a8301cf66
+      internalID: 1437314231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 396
+        width: 51
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36ab464fa9e514419886c12c0e9867e
+      internalID: -1683660136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 393
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b6e58ec0913df49895541475979baf
+      internalID: -1405234480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 393
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560b79af5f8969d4798cd0652a09d406
+      internalID: -375673451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 393
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa1a21e5991bb14ab2983d347b83614
+      internalID: -512788073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 393
+        width: 33
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bda7d0096ebcbb479c3982cca2db373
+      internalID: -1656994354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 393
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213b270fb8a732a41850dc303945701c
+      internalID: -1490995089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 315
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589e9aabc7948f842993d24abdc0b12d
+      internalID: 2067217108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 315
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a963eeabf9c1b4491d6b58b1978d15
+      internalID: -2140291658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 315
+        width: 30
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05f62c94f2478642afa382d9fab074f
+      internalID: -546843354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 315
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d9110b125c45742a8029baabd5fdf2
+      internalID: -1538386770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 357
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b12db0e5f74834f9c71fc93d1ef798
+      internalID: -1022876253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 315
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f21ceba7d59d444f8ddc32a9ca085a9
+      internalID: 1554830829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 315
+        width: 72
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eddf908d6c27c7c409da0c23db5239a7
+      internalID: 950582637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 315
+        width: 27
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc86426ff4c18842a557416376268e8
+      internalID: 1916402253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 315
+        width: 27
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aaaf633e1857154e9817938d413be80
+      internalID: -555686379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 315
+        width: 27
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1aaf9509df4b70428c2fd1c3855e3a3
+      internalID: -978218082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 321
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ab06f0f189924448cee7caad7d7637
+      internalID: 1051223034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 237
+        width: 27
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe604573b8fd4254196aadb987a2f82f
+      internalID: -290926019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 237
+        width: 30
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0351f310ee2c2dc46a671b3c400fd196
+      internalID: -907828188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 237
+        width: 30
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12cedd34a4690f4da36289868b85271
+      internalID: -1010047823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 237
+        width: 27
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c8c5b3490ce8041931fceda108e924
+      internalID: 2070928416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 237
+        width: 27
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef73303abe63df48846d1db291fa0ba
+      internalID: -321636806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 237
+        width: 33
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3916cc8422f42d448aa8a6d85ab85574
+      internalID: -794335616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 237
+        width: 33
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2eba72d683548478a33c2f909b54a1
+      internalID: 2014703052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 237
+        width: 33
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcbeb969a3664f49bcbf47c7ed16978
+      internalID: -482342701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 237
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbd6acf457f3b542955d1c1294e90a9
+      internalID: 1157854981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 159
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac6d55256fb89448bd1edb40bfea0a8
+      internalID: 2093561311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 159
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee620337a4ae5245bb1cc8b9bb6d5fe
+      internalID: 41377286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 168
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5169446b6028864590912de28325825
+      internalID: -331766849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 195
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52482a26cb04b2c49a17bc5766df665a
+      internalID: -1307782218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 159
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b04e8c04c29ed4cb8ca9accf4bc2bc
+      internalID: -1268521131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 159
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841efa2866058744fa545504bc1ae565
+      internalID: -297601202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 195
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b1935952ef0264fbd50e82e0eefda0
+      internalID: 904421127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 159
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84635973a5ba9a14f91ce1328183f470
+      internalID: 497796681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 159
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8597b5811ec7f4dbd76d6dada5e123
+      internalID: 2062806061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 159
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56102cb8e30625b4aada9d0d6db54a4a
+      internalID: 2024373683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 159
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29945111426fd724ab4f20af501b20e7
+      internalID: 808248281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 171
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f6f602a98fd9b44adb3a295fe89fa8
+      internalID: -523658098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 159
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b852907f4966f2419c6256b442a5a2a
+      internalID: 904123426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 159
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595a6e438454be14d80b24cbd4eff3f0
+      internalID: 1475217317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 159
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05619bbf92cb41642a3091ca9575bfd3
+      internalID: 325083842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 81
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f8e614d9152b34ebff2f018b658c0e
+      internalID: -430763187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 81
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22862c82a4854ef4d840e5f380661ee8
+      internalID: 50358033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 81
+        width: 30
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e8af35c82fbf546bc4c24f234287c4
+      internalID: 1976305012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 81
+        width: 39
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8755914ea1138bc4e9844c21949c7bbf
+      internalID: -443306755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 135
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f446ad95f8374254bbc8d033f56a9a43
+      internalID: -1522544348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 135
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bea76172840d104a8fef03cf29057a6
+      internalID: 560224353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 126
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5675be3c553375459d63f28f4fba2e2
+      internalID: -1555421551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 132
+        width: 45
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec8d593ce71aa6478c41f52919610ca
+      internalID: 1295871882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 81
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c738479e0cad84fbe803bd5ff9369d
+      internalID: 739056975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 81
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baaa92a95f41d534f8bf87216dd39411
+      internalID: 602432687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 81
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d683655079e4b040bbb06d2a15cf884
+      internalID: 2099384633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 81
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cacf4009df1624b91645ec7e50ec54
+      internalID: -1889703350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 51
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f67871efbdaa38478877eee6de4ba8a
+      internalID: -1281392367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 51
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31063bdd39ade44a9b3d6cf0da54f91
+      internalID: 1309901777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 51
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94f881a6beab57479e5c1d653402831
+      internalID: 1690448914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 51
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b33ff46db97e940b28782dc25c48bf
+      internalID: 742812675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 6
+        width: 27
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867ae83d26529d44383e3a99800b3bb1
+      internalID: 1559087781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 6
+        width: 27
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234fdde17a315e64c8ea6b3fc830e7d1
+      internalID: -1525052531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 6
+        width: 27
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7093cf975dc0aaf4e990bbe81fe982b7
+      internalID: 1189335545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites for Public Frenemy #1-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 6
+        width: 27
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7855ac4f94d86c1478b9d7ab91cafc56
+      internalID: -1795037680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sprites for Public Frenemy #1-Sheet_0: -1769074923
+      Sprites for Public Frenemy #1-Sheet_1: -668562060
+      Sprites for Public Frenemy #1-Sheet_10: -1547710015
+      Sprites for Public Frenemy #1-Sheet_11: -593759084
+      Sprites for Public Frenemy #1-Sheet_12: -1473450097
+      Sprites for Public Frenemy #1-Sheet_13: -1456630819
+      Sprites for Public Frenemy #1-Sheet_14: -2133252837
+      Sprites for Public Frenemy #1-Sheet_15: -1668326466
+      Sprites for Public Frenemy #1-Sheet_16: 280061365
+      Sprites for Public Frenemy #1-Sheet_17: 2057577900
+      Sprites for Public Frenemy #1-Sheet_18: 1841659454
+      Sprites for Public Frenemy #1-Sheet_19: 739932842
+      Sprites for Public Frenemy #1-Sheet_2: -1800162202
+      Sprites for Public Frenemy #1-Sheet_20: -1905274528
+      Sprites for Public Frenemy #1-Sheet_21: -1695591187
+      Sprites for Public Frenemy #1-Sheet_22: 826433165
+      Sprites for Public Frenemy #1-Sheet_23: 343904262
+      Sprites for Public Frenemy #1-Sheet_24: -688601068
+      Sprites for Public Frenemy #1-Sheet_25: 1437314231
+      Sprites for Public Frenemy #1-Sheet_26: -1683660136
+      Sprites for Public Frenemy #1-Sheet_27: -1405234480
+      Sprites for Public Frenemy #1-Sheet_28: -375673451
+      Sprites for Public Frenemy #1-Sheet_29: -512788073
+      Sprites for Public Frenemy #1-Sheet_3: 2042350545
+      Sprites for Public Frenemy #1-Sheet_30: -1656994354
+      Sprites for Public Frenemy #1-Sheet_31: -1490995089
+      Sprites for Public Frenemy #1-Sheet_32: 2067217108
+      Sprites for Public Frenemy #1-Sheet_33: -2140291658
+      Sprites for Public Frenemy #1-Sheet_34: -546843354
+      Sprites for Public Frenemy #1-Sheet_35: -1538386770
+      Sprites for Public Frenemy #1-Sheet_36: -1022876253
+      Sprites for Public Frenemy #1-Sheet_37: 1554830829
+      Sprites for Public Frenemy #1-Sheet_38: 950582637
+      Sprites for Public Frenemy #1-Sheet_39: 1916402253
+      Sprites for Public Frenemy #1-Sheet_4: -1674514307
+      Sprites for Public Frenemy #1-Sheet_40: -555686379
+      Sprites for Public Frenemy #1-Sheet_41: -978218082
+      Sprites for Public Frenemy #1-Sheet_42: 1051223034
+      Sprites for Public Frenemy #1-Sheet_43: -290926019
+      Sprites for Public Frenemy #1-Sheet_44: -907828188
+      Sprites for Public Frenemy #1-Sheet_45: -1010047823
+      Sprites for Public Frenemy #1-Sheet_46: 2070928416
+      Sprites for Public Frenemy #1-Sheet_47: -321636806
+      Sprites for Public Frenemy #1-Sheet_48: -794335616
+      Sprites for Public Frenemy #1-Sheet_49: 2014703052
+      Sprites for Public Frenemy #1-Sheet_5: 527223615
+      Sprites for Public Frenemy #1-Sheet_50: -482342701
+      Sprites for Public Frenemy #1-Sheet_51: 1157854981
+      Sprites for Public Frenemy #1-Sheet_52: 2093561311
+      Sprites for Public Frenemy #1-Sheet_53: 41377286
+      Sprites for Public Frenemy #1-Sheet_54: -331766849
+      Sprites for Public Frenemy #1-Sheet_55: -1307782218
+      Sprites for Public Frenemy #1-Sheet_56: -1268521131
+      Sprites for Public Frenemy #1-Sheet_57: -297601202
+      Sprites for Public Frenemy #1-Sheet_58: 904421127
+      Sprites for Public Frenemy #1-Sheet_59: 497796681
+      Sprites for Public Frenemy #1-Sheet_6: 2051403858
+      Sprites for Public Frenemy #1-Sheet_60: 2062806061
+      Sprites for Public Frenemy #1-Sheet_61: 2024373683
+      Sprites for Public Frenemy #1-Sheet_62: 808248281
+      Sprites for Public Frenemy #1-Sheet_63: -523658098
+      Sprites for Public Frenemy #1-Sheet_64: 904123426
+      Sprites for Public Frenemy #1-Sheet_65: 1475217317
+      Sprites for Public Frenemy #1-Sheet_66: 325083842
+      Sprites for Public Frenemy #1-Sheet_67: -430763187
+      Sprites for Public Frenemy #1-Sheet_68: 50358033
+      Sprites for Public Frenemy #1-Sheet_69: 1976305012
+      Sprites for Public Frenemy #1-Sheet_7: -872726517
+      Sprites for Public Frenemy #1-Sheet_70: -443306755
+      Sprites for Public Frenemy #1-Sheet_71: -1522544348
+      Sprites for Public Frenemy #1-Sheet_72: 560224353
+      Sprites for Public Frenemy #1-Sheet_73: -1555421551
+      Sprites for Public Frenemy #1-Sheet_74: 1295871882
+      Sprites for Public Frenemy #1-Sheet_75: 739056975
+      Sprites for Public Frenemy #1-Sheet_76: 602432687
+      Sprites for Public Frenemy #1-Sheet_77: 2099384633
+      Sprites for Public Frenemy #1-Sheet_78: -1889703350
+      Sprites for Public Frenemy #1-Sheet_79: -1281392367
+      Sprites for Public Frenemy #1-Sheet_8: 1359862053
+      Sprites for Public Frenemy #1-Sheet_80: 1309901777
+      Sprites for Public Frenemy #1-Sheet_81: 1690448914
+      Sprites for Public Frenemy #1-Sheet_82: 742812675
+      Sprites for Public Frenemy #1-Sheet_83: 1559087781
+      Sprites for Public Frenemy #1-Sheet_84: -1525052531
+      Sprites for Public Frenemy #1-Sheet_85: 1189335545
+      Sprites for Public Frenemy #1-Sheet_86: -1795037680
+      Sprites for Public Frenemy #1-Sheet_9: 1098623127
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
