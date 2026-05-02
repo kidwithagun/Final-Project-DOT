@@ -17,7 +17,12 @@ public class PlayerDialogue : MonoBehaviour
         _talkText = GameObject.Find(Structs.GameObjects.talkText).GetComponent<TextMeshProUGUI>();
 
         _talkPanel = GameObject.Find(Structs.GameObjects.talkPanel);
-        _talkPanel.SetActive(false);
+        _talkPanel.SetActive(true);
+        _talkText.text = dialogue[_talkIndex];
+        _talkText.maxVisibleCharacters = 0;
+        StartCoroutine(IterateString());
+        
+
     }
 
     // Update is called once per frame
@@ -41,7 +46,19 @@ public class PlayerDialogue : MonoBehaviour
             isSpeaking = true;
             _talkPanel.SetActive(true);
             _talkIndex = 0;
-            _talkText.text = dialogue[_talkIndex]; 
+            _talkText.text = dialogue[_talkIndex];
+            //Start Coruitne 
+
+        }
+    }
+
+    public float waitTime = 2f;
+    IEnumerator IterateString()
+    {
+        for (int i = 0; i < _talkText.text.Length; i++)
+        {
+            _talkText.maxVisibleCharacters++;
+            yield return new WaitForSeconds(waitTime);
         }
     }
 
