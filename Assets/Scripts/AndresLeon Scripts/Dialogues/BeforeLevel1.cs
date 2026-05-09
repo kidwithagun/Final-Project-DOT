@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class PlayerDialogue : MonoBehaviour
@@ -16,6 +17,7 @@ public class PlayerDialogue : MonoBehaviour
     public Image RightShower;
     private TextMeshProUGUI _talkText;
     private int _talkIndex = 0;
+    public string scene;
 
     private void Start()
     {
@@ -51,9 +53,14 @@ public class PlayerDialogue : MonoBehaviour
             else
             {
                 _talkIndex++;
+                if (_talkIndex == 19)
+                {
+                    SceneManager.LoadScene(scene);
+                }
                 ResetDialogue();
 
             }
+            
         }
         else if (canSpeak && Input.GetKeyDown(KeyCode.E))
         {
@@ -100,4 +107,5 @@ public class PlayerDialogue : MonoBehaviour
         }
     }
     */
+
 }
