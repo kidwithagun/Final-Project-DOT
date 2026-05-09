@@ -1,0 +1,1280 @@
+fileFormatVersion: 2
+guid: a1092300508b6774182ed4a9975718da
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Poster Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 3465
+        width: 265
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fde976010d3f74697b8d42927b7125
+      internalID: -697523791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 3676
+        width: 266
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451fa7dc6be1be84f99f677c712d4632
+      internalID: 654201158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 3676
+        width: 277
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6986c488654eabc4197222687bcb05fa
+      internalID: 87714642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 3785
+        width: 74
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c946f20055ff684ba701a9efc28687e
+      internalID: 1885709553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 3195
+        width: 348
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4c03c621245e545a999605ec2c8da5
+      internalID: -1924338094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 3437
+        width: 265
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5428cb1a3c279b94b9d68410cf9b5028
+      internalID: -1068249295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 2477
+        width: 207
+        height: 437
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40ed8cd8bd92584e9d9de5ea325f392
+      internalID: 731609117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 2477
+        width: 277
+        height: 464
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d89e743e6551645a2d4e3f7a614a7d
+      internalID: -1555292561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 2297
+        y: 2715
+        width: 207
+        height: 449
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caff324ebf8c2934781618d3329d5c99
+      internalID: -910520625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 2777
+        y: 2715
+        width: 207
+        height: 449
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453b9db02814f3e4a9f757ad421a3d88
+      internalID: -1291712352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 3258
+        y: 2715
+        width: 207
+        height: 449
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdb477834eb2bd49ab985d37dd7fc69
+      internalID: -747642241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 3965
+        y: 2766
+        width: 78
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb08c4cde7f36c44ad68e4f8d37ca55
+      internalID: 633859451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 4215
+        y: 2766
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7e1e6b1af14854387726b33b418117
+      internalID: 298091280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 4375
+        y: 2766
+        width: 78
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184490785d9a44a46a8eefccfad0f9af
+      internalID: -2011278999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 4207
+        y: 2496
+        width: 105
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282fb67e92489ef408834d65e09ab506
+      internalID: 1290834597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 4937
+        y: 2496
+        width: 106
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3180ab210d96404986ae8bd825d0d90
+      internalID: 722746350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 5137
+        y: 2488
+        width: 156
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60faa1e38508c554f922c10d22795892
+      internalID: -1648803025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1996
+        width: 207
+        height: 438
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ec3892c581d4a458151652e5d0a052
+      internalID: 1739732047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1996
+        width: 207
+        height: 438
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597cd7ae1a6e52147a8df3fb4a4a84e9
+      internalID: 1663301199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 2238
+        width: 207
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee5ed83a93c7dd4093ba7d4c784e0cc
+      internalID: 1702577678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 2238
+        width: 207
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcea48a34461b3f44ab5aff565be0e4e
+      internalID: -925154311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 1516
+        width: 246
+        height: 484
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2179dc4979a264abe713ad94ff358f
+      internalID: -435846800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 2758
+        y: 1516
+        width: 246
+        height: 484
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0facaec8214fb2241ae5276723891929
+      internalID: -1908923923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 1996
+        width: 219
+        height: 477
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b21fa06aa028f41825fbf458274b68
+      internalID: -1315672684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 3676
+        y: 1516
+        width: 297
+        height: 484
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b45936096b945d418d6ac4537774de1
+      internalID: -1308092202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 4457
+        y: 1996
+        width: 207
+        height: 477
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561d4ad05dfe869488aab4d572f63908
+      internalID: -1779906213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 4676
+        y: 2258
+        width: 109
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f40ee20fbde2f4e803275c8f157979
+      internalID: 1649446914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 4809
+        y: 1996
+        width: 472
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a291a2e58b7c540b2708e560dc342d
+      internalID: 1114491522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1996
+        width: 484
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98eab55f73cf56f4a8e457588856010c
+      internalID: -362864360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 1777
+        width: 227
+        height: 446
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41e39967d3233e4ebff99c2f9caa1ac
+      internalID: -727226457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1758
+        width: 207
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58e199a64d98f240857068c5b51d270
+      internalID: 1513454836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1516
+        width: 348
+        height: 437
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b022c89bdfa96ae4ab65eb75e7349e1f
+      internalID: -341340850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 3258
+        y: 1516
+        width: 207
+        height: 468
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997b9feae751a3649b9a7ba3980671d8
+      internalID: 91634823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 3945
+        y: 1785
+        width: 137
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf79fe77f7a52044ac1949e2e86009b
+      internalID: -346593276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 4066
+        y: 1875
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa149c35bdff1f64295ddac03fb3cc88
+      internalID: 871271857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 4457
+        y: 1516
+        width: 207
+        height: 468
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79443865fcfa0234e83e1b899d2b79ae
+      internalID: 522072971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 4656
+        y: 1758
+        width: 106
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e705d49d1b2c9b146af2a23cf96b00ec
+      internalID: 1247332470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 4937
+        y: 1758
+        width: 208
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b6ab65b5461a2469888c2efe361384
+      internalID: 1176358789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1758
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44b061245804c749a2660e023c0aeb1
+      internalID: -1966194177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 1758
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4df5c88148729543ab8a08f9ee009de
+      internalID: -599667973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 4047
+        y: 1668
+        width: 117
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a70d79f5537804b9ed10c3ff82f746
+      internalID: 2054925083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 4168
+        y: 1687
+        width: 156
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35dfc50bd89b8944dbd6abd140e84a28
+      internalID: 1683304583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 887
+        width: 136
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5d3c2784175bb48bec9d5c4e0315be
+      internalID: 802560469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 809
+        width: 308
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0693af5cdc0784f9c921c6521c745e
+      internalID: -843641765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 809
+        width: 309
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd9c288dc444634c8c913b85c3894dc
+      internalID: 147558906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1035
+        width: 477
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e4cd8201e9b9f44b4b574c04f6b4a1
+      internalID: 1168412192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_46
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 1035
+        width: 305
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aebdf8b9839fc4498e81bb15c250cb0
+      internalID: -1957704663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 797
+        width: 308
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5536cd06546f024db46fa5bdd45235b
+      internalID: -1807001291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_48
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 625
+        width: 137
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f157dad315a0ea4e9d5b04294ae3ad1
+      internalID: 598370781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_49
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 328
+        width: 308
+        height: 457
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64aa7290cbe47c04b994c46aa76ca0dd
+      internalID: -544880601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_50
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 328
+        width: 309
+        height: 457
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcc5ec016ab6564f8fb024312f7d560
+      internalID: -1872288051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_51
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 2000
+        width: 200
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba72f5d9c6b7d964c9f0e5871b9d0e58
+      internalID: 1255003662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poster Sprites_52
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 2000
+        width: 200
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ee842a5e7c5be45843d793860359b5
+      internalID: -23348267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Poster Sprites_0: -697523791
+      Poster Sprites_1: 654201158
+      Poster Sprites_10: -747642241
+      Poster Sprites_11: 633859451
+      Poster Sprites_12: 298091280
+      Poster Sprites_13: -2011278999
+      Poster Sprites_14: 1290834597
+      Poster Sprites_15: 722746350
+      Poster Sprites_16: -1648803025
+      Poster Sprites_17: 1739732047
+      Poster Sprites_18: 1663301199
+      Poster Sprites_19: 1702577678
+      Poster Sprites_2: 87714642
+      Poster Sprites_20: -925154311
+      Poster Sprites_21: -435846800
+      Poster Sprites_22: -1908923923
+      Poster Sprites_23: -1315672684
+      Poster Sprites_24: -1308092202
+      Poster Sprites_25: -1779906213
+      Poster Sprites_26: 1649446914
+      Poster Sprites_27: 1114491522
+      Poster Sprites_28: -362864360
+      Poster Sprites_29: -727226457
+      Poster Sprites_3: 1885709553
+      Poster Sprites_30: 1513454836
+      Poster Sprites_31: -341340850
+      Poster Sprites_32: 91634823
+      Poster Sprites_33: -346593276
+      Poster Sprites_34: 871271857
+      Poster Sprites_35: 522072971
+      Poster Sprites_36: 1247332470
+      Poster Sprites_37: 1176358789
+      Poster Sprites_38: -1966194177
+      Poster Sprites_39: -599667973
+      Poster Sprites_4: -1924338094
+      Poster Sprites_40: 2054925083
+      Poster Sprites_41: 1683304583
+      Poster Sprites_42: 802560469
+      Poster Sprites_43: -843641765
+      Poster Sprites_44: 147558906
+      Poster Sprites_45: 1168412192
+      Poster Sprites_46: -1957704663
+      Poster Sprites_47: -1807001291
+      Poster Sprites_48: 598370781
+      Poster Sprites_49: -544880601
+      Poster Sprites_5: -1068249295
+      Poster Sprites_50: -1872288051
+      Poster Sprites_51: 1255003662
+      Poster Sprites_52: -23348267
+      Poster Sprites_6: 731609117
+      Poster Sprites_7: -1555292561
+      Poster Sprites_8: -910520625
+      Poster Sprites_9: -1291712352
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

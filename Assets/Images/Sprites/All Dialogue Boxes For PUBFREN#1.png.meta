@@ -1,0 +1,1214 @@
+fileFormatVersion: 2
+guid: b7c39b81090492346b5cf6f52c758d40
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1305
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2837e3b0dc175cf4a903da48cbfbbcc0
+      internalID: -34432639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1308
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6783399fba9e2214884788d6dab2f3e7
+      internalID: 13133736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_2
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1305
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c5cae89383f844eb756214b316cd2c
+      internalID: 451847102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_3
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1305
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff705b2eab0ca149af7969500885bc3
+      internalID: 1573946170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_4
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1305
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa7023d9ce2847469b966160165f0c6
+      internalID: -2038423604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_5
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1161
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7455e7b0a2a124f42b5c9855bb5e1c17
+      internalID: 160082488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_6
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1161
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1800482cb6f8d3e4d97a0c45073e6a7e
+      internalID: -1177519897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_7
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1161
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6802022df0ff057468c67ee41758b292
+      internalID: -1565105986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_8
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1161
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ed66752e8468446b06192bc7eee1d3
+      internalID: 643244414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_9
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1161
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4aabafb9be5794b8c8163092d4d0b1
+      internalID: 1101715786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1014
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63803b7f0fc53014789e4c47384580bd
+      internalID: -1947331138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1017
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8884a68c12d9e94eb56a8aa5df67dc1
+      internalID: -1380239859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_12
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1014
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70831225a42c329429da118a5965606d
+      internalID: 2049643798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_13
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1014
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a918db72461684f802b71fd605f997
+      internalID: 1475141212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_14
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1014
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fafb5b961eaaef44941de59a0475f8b
+      internalID: -1905824881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_15
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 870
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb68c7e70be70a149b4b6a1f7f8f747b
+      internalID: -1268213755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_16
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 870
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bce9cbc6273ac4391cac3a6960e7e3
+      internalID: -73990188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_17
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 870
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eede7eadad37c824b8b03f1aee862974
+      internalID: -1317349499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_18
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 870
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b45b3f7c8f2efd44bed6f8fa90dc9cd
+      internalID: 1735334517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_19
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 870
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a533cecde10cc40ac1dbfe7989cb64
+      internalID: 1337736093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_20
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 729
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9951a73554e7574a80488703e640139
+      internalID: -947122979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_21
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 732
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ed7e0081053b84b96f590116cd43dc
+      internalID: 2131506787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_22
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 729
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4370e6dcc720d94ca1c4c2eac327834
+      internalID: -590836183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_23
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 729
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7910df0d7aacd884b9b96a2e0b64fe86
+      internalID: 1533796587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_24
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 729
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622ba21d902daca4686293c92769ca38
+      internalID: 307513707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_25
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 585
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a2ae293ae9c294f94efa829d465872
+      internalID: 193440649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_26
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 585
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4b0a2148d7cb34e891caa87f031602
+      internalID: -298820910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_27
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 585
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b54935f14e205541ac70b829be617c8
+      internalID: -1474877084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_28
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 585
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2833ce43460262343beaafb5c0d6e553
+      internalID: -1719479331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_29
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 585
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7193445e7e591a429797f2943935e99
+      internalID: 153572620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_30
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 438
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a6996d72590d94181eb931614a2422
+      internalID: -1988680808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_31
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 441
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc6ac2175c69ca4597dd31caf14862f
+      internalID: -72938510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_32
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 438
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbeef8df23af69b469e2bd9733bb5f87
+      internalID: -365717568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_33
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 438
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82d47e2bb519fc458bbc318bc3cd7b4
+      internalID: -60660233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_34
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 438
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b38dfc2c5b25c4481614fd4796c5bf
+      internalID: 1739363697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_35
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 294
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51015a5fe454eb94c8cc4b4c61f86dd6
+      internalID: 1955999301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_36
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 294
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13af1082bfdba24389d9c9dfc2de2c2
+      internalID: 223713480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_37
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 294
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c202ae34fefad4047a8cd92894060f6b
+      internalID: 1592837401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_38
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 294
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378995e0a4b49a646b35d825f7bb80a0
+      internalID: -453687300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_39
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 294
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1557b02c407a02344a853bf02a4a36a2
+      internalID: 269232719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_40
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 153
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f771df5edcfdd4396f636c2b9ff7e8
+      internalID: 657676412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_41
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 156
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4cc026ae88b7d42a6194df61ad9867
+      internalID: -2005973612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_42
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 153
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915e2dd8d4ffb264996667e299b0699e
+      internalID: -398557020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_43
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 153
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48284fdd49a20f846904bd596f9159dc
+      internalID: 1353164104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_44
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 153
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9765fe112629d44e91c235c34d36139
+      internalID: 27063515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_45
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 9
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4e991cf71fec942947aa9461c4f173
+      internalID: -218505007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_46
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 9
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb98fd869485d64db654c4769edc455
+      internalID: -682452647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_47
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 9
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2edfaab89d2c3b4bacd029b5cc80bcd
+      internalID: 983282085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_48
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 9
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0455cf34d3eeab24eb88c99edd4c2669
+      internalID: 1148680806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Dialogue Boxes For PUBFREN#1_49
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 9
+        width: 216
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe9d62d0f233dc4ea83124225e601a7
+      internalID: -2075929604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      All Dialogue Boxes For PUBFREN#1_0: -34432639
+      All Dialogue Boxes For PUBFREN#1_1: 13133736
+      All Dialogue Boxes For PUBFREN#1_10: -1947331138
+      All Dialogue Boxes For PUBFREN#1_11: -1380239859
+      All Dialogue Boxes For PUBFREN#1_12: 2049643798
+      All Dialogue Boxes For PUBFREN#1_13: 1475141212
+      All Dialogue Boxes For PUBFREN#1_14: -1905824881
+      All Dialogue Boxes For PUBFREN#1_15: -1268213755
+      All Dialogue Boxes For PUBFREN#1_16: -73990188
+      All Dialogue Boxes For PUBFREN#1_17: -1317349499
+      All Dialogue Boxes For PUBFREN#1_18: 1735334517
+      All Dialogue Boxes For PUBFREN#1_19: 1337736093
+      All Dialogue Boxes For PUBFREN#1_2: 451847102
+      All Dialogue Boxes For PUBFREN#1_20: -947122979
+      All Dialogue Boxes For PUBFREN#1_21: 2131506787
+      All Dialogue Boxes For PUBFREN#1_22: -590836183
+      All Dialogue Boxes For PUBFREN#1_23: 1533796587
+      All Dialogue Boxes For PUBFREN#1_24: 307513707
+      All Dialogue Boxes For PUBFREN#1_25: 193440649
+      All Dialogue Boxes For PUBFREN#1_26: -298820910
+      All Dialogue Boxes For PUBFREN#1_27: -1474877084
+      All Dialogue Boxes For PUBFREN#1_28: -1719479331
+      All Dialogue Boxes For PUBFREN#1_29: 153572620
+      All Dialogue Boxes For PUBFREN#1_3: 1573946170
+      All Dialogue Boxes For PUBFREN#1_30: -1988680808
+      All Dialogue Boxes For PUBFREN#1_31: -72938510
+      All Dialogue Boxes For PUBFREN#1_32: -365717568
+      All Dialogue Boxes For PUBFREN#1_33: -60660233
+      All Dialogue Boxes For PUBFREN#1_34: 1739363697
+      All Dialogue Boxes For PUBFREN#1_35: 1955999301
+      All Dialogue Boxes For PUBFREN#1_36: 223713480
+      All Dialogue Boxes For PUBFREN#1_37: 1592837401
+      All Dialogue Boxes For PUBFREN#1_38: -453687300
+      All Dialogue Boxes For PUBFREN#1_39: 269232719
+      All Dialogue Boxes For PUBFREN#1_4: -2038423604
+      All Dialogue Boxes For PUBFREN#1_40: 657676412
+      All Dialogue Boxes For PUBFREN#1_41: -2005973612
+      All Dialogue Boxes For PUBFREN#1_42: -398557020
+      All Dialogue Boxes For PUBFREN#1_43: 1353164104
+      All Dialogue Boxes For PUBFREN#1_44: 27063515
+      All Dialogue Boxes For PUBFREN#1_45: -218505007
+      All Dialogue Boxes For PUBFREN#1_46: -682452647
+      All Dialogue Boxes For PUBFREN#1_47: 983282085
+      All Dialogue Boxes For PUBFREN#1_48: 1148680806
+      All Dialogue Boxes For PUBFREN#1_49: -2075929604
+      All Dialogue Boxes For PUBFREN#1_5: 160082488
+      All Dialogue Boxes For PUBFREN#1_6: -1177519897
+      All Dialogue Boxes For PUBFREN#1_7: -1565105986
+      All Dialogue Boxes For PUBFREN#1_8: 643244414
+      All Dialogue Boxes For PUBFREN#1_9: 1101715786
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
