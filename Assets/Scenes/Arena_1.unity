@@ -677,7 +677,8 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Player
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 4036085868193831819, guid: f61a06df6cc8fbe4996e67d1e8fdcc37, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
@@ -707,7 +708,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogue:
   - 
-  isInGame: 0
+  leftSprites: []
+  rightSprites: []
+  LeftShower: {fileID: 0}
+  RightShower: {fileID: 0}
+  scene: 
+  inGame: 0
   waitTime: 2
 --- !u!81 &3062612924411177495
 AudioListener:

@@ -18,14 +18,15 @@ public class PlayerDialogue : MonoBehaviour
     private TextMeshProUGUI _talkText;
     private int _talkIndex = 0;
     public string scene;
+    public bool inGame = true;
 
     private void Start()
     {
         _talkText = GameObject.Find(Structs.GameObjects.talkText).GetComponent<TextMeshProUGUI>();
 
         _talkPanel = GameObject.Find(Structs.GameObjects.talkPanel);
-        _talkPanel.SetActive(true);
-        isSpeaking = true;
+        _talkPanel.SetActive(inGame);
+        isSpeaking = inGame;
         ResetDialogue();
     }
 
