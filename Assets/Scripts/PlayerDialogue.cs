@@ -11,15 +11,14 @@ public class PlayerDialogue : MonoBehaviour
     private GameObject _talkPanel;
     private TextMeshProUGUI _talkText;
     private int _talkIndex = 0;
-
+    public bool isInGame = false;
     private void Start()
     {
         _talkText = GameObject.Find(Structs.GameObjects.talkText).GetComponent<TextMeshProUGUI>();
 
         _talkPanel = GameObject.Find(Structs.GameObjects.talkPanel);
-        _talkPanel.SetActive(true);
+        _talkPanel.SetActive(isInGame);
         _talkText.text = dialogue[_talkIndex];
-        _talkText.maxVisibleCharacters = 0;
         StartCoroutine(IterateString());
         
 

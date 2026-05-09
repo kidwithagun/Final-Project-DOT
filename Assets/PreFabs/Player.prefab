@@ -96,9 +96,10 @@ GameObject:
   - component: {fileID: 2265877439982384983}
   - component: {fileID: 5336271871286282976}
   - component: {fileID: 1084460722341137393}
+  - component: {fileID: 4036085868193831819}
   m_Layer: 7
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -208,3 +209,18 @@ MonoBehaviour:
   deceleration: 3
   turnSpeed: 200
   _rb: {fileID: 0}
+--- !u!114 &4036085868193831819
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8874931901683142807}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aef300d746ba31642a9b5d8dd7c94412, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dialogue: []
+  isInGame: 0
+  waitTime: 2
