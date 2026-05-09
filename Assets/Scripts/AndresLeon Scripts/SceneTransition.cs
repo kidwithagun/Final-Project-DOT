@@ -6,8 +6,11 @@ using UnityEngine.SceneManagement;
 public class SceneTransition : MonoBehaviour
 {
     public string scene;
-    public void SceneSwitch(string sceneName)
-    {
+
+    public void OnTriggerEnter2D(Collider2D collision)
+    { 
         SceneManager.LoadScene(scene);
     }
 }
+          
+
